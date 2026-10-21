@@ -1,0 +1,11 @@
+{
+  "title": "A concise conclusion",
+  "subtitle": "Short explanatory subtitle",
+  "steps": [
+    {"label": "Start", "detail": "Brief action or state"},
+    {"label": "Process", "detail": "Brief action or state"},
+    {"label": "Decision", "detail": "Brief action or state"},
+    {"label": "Outcome", "detail": "Brief action or state"}
+  ],
+  "takeaway": "One useful takeaway"
+}
